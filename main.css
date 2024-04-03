@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+
+.container {
+    color: rgb(255, 255, 255);
+    font-size: 45px;
+    position: relative;
+    width: 40px;
+    height: 40px;
+
+
+}
+
+.name {
+    position: absolute;
+    background-color: rgb(2, 188, 14);
+    top: 0;
+    right: -10px;
+    border-radius: 50%;
+    font-size: 25px;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
